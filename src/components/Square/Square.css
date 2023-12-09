@@ -1,0 +1,17 @@
+
+.Square{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-color: #000;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+.Text{
+  
+    line-height: 1.7em;
+    width: 1.7em;
+    height: 1.7em;
+  
+}

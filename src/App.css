@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  gap:20px;
+  flex-direction: column;
+  width:500px;
+  height:500px;
+  transform: translate(10%,10%);
+}
+
